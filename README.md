@@ -8,4 +8,4 @@ I'm a 17-year-old student from the UK who enjoys coding `"small"` projects in my
 <img src="https://skillicons.dev/icons?i=windows,vscode">
 
 ###### What I'm Learning
-<img src="https://skillicons.dev/icons?i=rust,tauri,ts,threejs">
+<img src="https://skillicons.dev/icons?i=rust,ts,tauri,threejs">
